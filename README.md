@@ -1,7 +1,7 @@
 # NeonFeud
 
 ## Overview
-NeonFeud is a serverless, Progressive Web App (PWA) trivia/board game engineered for offline-first performance. The application manages complex game states, dynamic audio execution, and data parsing entirely within the client's browser, eliminating the need for a persistent backend connection during gameplay.
+Live at https://two-player.app/ NeonFeud is a serverless, Progressive Web App (PWA) trivia/board game engineered for offline-first performance. The application manages complex game states, dynamic audio execution, and data parsing entirely within the client's browser, eliminating the need for a persistent backend connection during gameplay.
 
 ## Architecture & Data Flow
 The application operates on a decentralized, client-heavy architecture.
